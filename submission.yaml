@@ -15,11 +15,11 @@ team:
     name: "Het Barai"                           # REQUIRED — e.g., "Alice Chen"
     email: "25dcs007@charusat.edu.in"                          # REQUIRED — e.g., "alice.chen@ibm.com"
   members:
-    - name: "MEMBER 1 Hrutvijsinh Jadega"                         # REQUIRED — Team member 1
+    - name: "Team member 1 Hrutvijsinh Jadega"                         # REQUIRED — Team member 1
       email: "d26ce178@charusat.edu.in"
-    - name: "MEMBER 2 Vatsal Paghadal"                         # Add more members by copying the two lines above
+    - name: "Team member 2 Vatsal Paghadal"                         # Add more members by copying the two lines above
       email: "25dit039@charusat.edu.in"
-    - name: "MEMBER 3 Vishwa Darji"
+    - name: "Team member 3 Vishwa Darji"
       email: "25dcs021@charusat.edu.in"
 
 submission:
