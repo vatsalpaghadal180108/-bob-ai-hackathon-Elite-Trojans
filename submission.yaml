@@ -16,7 +16,7 @@ team:
     email: "25dcs007@charusat.edu.in"                          # REQUIRED — e.g., "alice.chen@ibm.com"
   members:
     - name: "MEMBER 1 Hrutvijsinh Jadega"                         # REQUIRED — Team member 1
-      email: "d26ce178@charusat.edu.in"
+      email: "26ce178@charusat.edu.in"
     - name: "MEMBER 2 Vatsal Paghadal"                         # Add more members by copying the two lines above
       email: "25dit039@charusat.edu.in"
     - name: "MEMBER 3 Vishwa Darji"
