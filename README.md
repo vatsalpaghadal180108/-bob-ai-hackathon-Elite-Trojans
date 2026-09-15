@@ -11,7 +11,7 @@
 | **Team Name** | [Elite Trojans] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
 | **Team Lead** | [Het Barai] — [25dcs007@charusat.edu.in] |
-| **Members** | [Hrutvijsinh Jadega], [Vatsal Paghadal], [Vishwa Darji] |
+| **Members** | [Hrutvijsinh Jadeja], [Vatsal Paghadal], [Vishwa Darji] |
 
 ---
 
